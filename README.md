@@ -3,6 +3,8 @@
 ## Introduction
 That is my first small task about simulation based on physics.
 
+In this case, we can see a Stanford bunny hit the wall or floor angrily.
+
 ## Rigid Body Dynamics
 First, we update the linear velocities V and angular velocities ω by multiplying damping coefficients.
 
