@@ -15,5 +15,5 @@ we can use signed distance function to detect every vertices if their function v
 
 To deal with the collision, we can impose impulse to the linear velocity of the entire bunny and update the angular velocity. 
 
-## interaction
+## Interaction
 Users can press 'r' to initialize the bunny and press 'l' to launch it. 
