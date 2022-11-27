@@ -17,3 +17,10 @@ To deal with the collision, we can impose impulse to the linear velocity of the 
 
 ## Interaction
 Users can press 'r' to initialize the bunny and press 'l' to launch it. 
+
+## Bonus
+In this section, we use shape marching to finish the dynamics. 
+
+First all vertices move freely.
+
+Finally we adjust the position of all vertices by rigid body constraints.
