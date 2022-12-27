@@ -28,3 +28,7 @@ In this section, we use shape marching to finish the dynamics.
 First，all vertices move freely.
 
 After that, we adjust the position of all vertices by rigid body constraints.
+
+## Effects
+<img width="404" alt="image" src="https://user-images.githubusercontent.com/53171201/209612932-81ec94da-e0c5-40d0-9da5-a9d022222be0.png">
+<img width="274" alt="image" src="https://user-images.githubusercontent.com/53171201/209613043-a22dcbd7-fa78-4f32-973f-74ab7b12cf05.png">
